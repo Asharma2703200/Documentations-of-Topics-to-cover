@@ -1,0 +1,24 @@
+Types of Tree - 
+
+. Generic Tree / N-Ary Tree
+. Binary Tree
+. Binary Search Tree
+. Binary Indexed tree / Fenwick Tree
+. Threaded binary tree
+. AVL Tree 
+. Red Black Tree 
+. Segment Tree
+. Ternary Tree
+. B-Tree
+. B+ Tree
+
+
+
+
+
+Important Algorithm's or Question to master
+
+. https://www.geeksforgeeks.org/check-if-a-binary-tree-is-subtree-of-another-binary-tree/
+. https://www.geeksforgeeks.org/duplicate-subtree-in-binary-tree-set-2/
+. https://www.geeksforgeeks.org/check-if-a-binary-tree-is-subtree-of-another-binary-tree-set-3/
+. https://www.geeksforgeeks.org/finding-if-a-node-x-is-present-in-subtree-of-another-node-y-or-vice-versa-for-q-queries/
